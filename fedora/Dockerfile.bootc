@@ -1,0 +1,3 @@
+FROM localhost/bootc:fedora
+
+CMD [ "/bin/bash" ]
